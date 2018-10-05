@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>Mike's programming blog</title>
+		<title>Mike's programming and architecture blog</title>
 		<link>https://mikeska.tech/</link>
 		<description>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 05 Oct 2018 19:43:35 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Oct 2018 19:43:35 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Oct 2018 20:00:07 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Oct 2018 20:00:07 GMT</lastBuildDate>
 		<item>
 			<title>Comic 1 Your method to override</title>
 			<link>https://mikeska.tech/posts/comic1-your-method-to-override</link>
