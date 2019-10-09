@@ -5,13 +5,13 @@
 		<link>https://mikeska.tech/</link>
 		<description>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</description>
 		<copyright>2019</copyright>
-		<pubDate>Wed, 09 Oct 2019 21:32:28 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Oct 2019 21:32:28 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Oct 2019 21:48:24 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Oct 2019 21:48:24 GMT</lastBuildDate>
 		<item>
 			<title>Create a programming blog without any database or CMS by a static site generator</title>
 			<link>https://mikeska.tech/posts/create-programming-blog-without-database-cms-static-site-generator</link>
 			<description>&lt;p&gt;I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.&lt;/p&gt;</description>
-			<enclosure url="https://mikeska.tech/title-if.jpg" length="0" type="image" />
+			<enclosure url="https://mikeska.tech/static-sites.jpg" length="0" type="image" />
 			<guid>https://mikeska.tech/posts/create-programming-blog-without-database-cms-static-site-generator</guid>
 			<pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;h3 id="have-just-setup-a-blog"&gt;Have just setup a blog...&lt;/h3&gt;
