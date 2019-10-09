@@ -4,7 +4,7 @@
 	<id>https://mikeska.tech/</id>
 	<title>Mike's programming and architecture blog</title>
 	<rights>2019</rights>
-	<updated>2019-10-09T22:06:20Z</updated>
+	<updated>2019-10-09T22:21:38Z</updated>
 	<subtitle>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</subtitle>
 	<entry>
 		<link href="https://mikeska.tech/posts/create-programming-blog-without-database-cms-static-site-generator" />
@@ -190,7 +190,7 @@ ODAzXX0=
 		<title>Comic 1 Your method to override</title>
 		<updated>2018-09-30T00:00:00Z</updated>
 		<content>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/articles/git-repos/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwNjQwNDI3MCwtNjk1NTU3MTM4XX0=
 --&gt;
