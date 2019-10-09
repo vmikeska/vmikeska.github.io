@@ -4,7 +4,7 @@
 	<id>https://mikeska.tech/</id>
 	<title>Mike's programming and architecture blog</title>
 	<rights>2019</rights>
-	<updated>2019-10-09T21:48:24Z</updated>
+	<updated>2019-10-09T22:06:20Z</updated>
 	<subtitle>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</subtitle>
 	<entry>
 		<link href="https://mikeska.tech/posts/create-programming-blog-without-database-cms-static-site-generator" />
@@ -135,15 +135,41 @@ But you don't really have to stick to any of these, don't hesitate to make your 
 &lt;h4 id="setting-up-the-second-level-domain"&gt;Setting up the second level domain&lt;/h4&gt;
 &lt;p&gt;Well, no one could describe this process better than the Github itself. So the root article can be found &lt;a href="https://help.github.com/articles/quick-start-setting-up-a-custom-domain/"&gt;here&lt;/a&gt;.
 You'll be most possibly setting an apex domain (like example.com). The article for this case can be found &lt;a href="https://help.github.com/articles/quick-start-setting-up-a-custom-domain/"&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used:
-| Record | Value |
-|--|--|
-| A | 185.199.108.153 |
-| A | 185.199.109.153 |
-| A | 185.199.110.153 |
-| A | 185.199.111.153 |
-| ALIAS | your-github-repository-name.github.io |
-| DNS | your-github-repository-name.github.io |&lt;/p&gt;
+&lt;p&gt;I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used.&lt;/p&gt;
+&lt;table class="table"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Record&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;185.199.108.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;185.199.109.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;185.199.110.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;185.199.111.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ALIAS&lt;/td&gt;
+&lt;td&gt;your-github-repository-name.github.io&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DNS&lt;/td&gt;
+&lt;td&gt;your-github-repository-name.github.io&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Hope this helps. I'll most possibly keep this article updated.&lt;/p&gt;
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLT
