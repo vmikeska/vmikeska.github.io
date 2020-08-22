@@ -5,8 +5,8 @@
 		<link>https://mikeska.tech/</link>
 		<description>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</description>
 		<copyright>2020</copyright>
-		<pubDate>Mon, 13 Apr 2020 20:23:18 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Apr 2020 20:23:18 GMT</lastBuildDate>
+		<pubDate>Sat, 22 Aug 2020 19:21:54 GMT</pubDate>
+		<lastBuildDate>Sat, 22 Aug 2020 19:21:54 GMT</lastBuildDate>
 		<item>
 			<title>VSC plugin to switch NPM references between remote and local packages</title>
 			<link>https://mikeska.tech/posts/vsc-plugin-switch-local-remote-packages-npm</link>
@@ -171,7 +171,7 @@ You can move your content to any other platform with ease.&lt;/p&gt;
 &lt;p&gt;When offline, I use &lt;a href="https://code.visualstudio.com"&gt;Visual Studio Code&lt;/a&gt; IDE.
 But you don't really have to stick to any of these, don't hesitate to make your own research in this field.&lt;/p&gt;
 &lt;h4 id="setting-up-your-repository-on-github"&gt;Setting up your repository on GitHub&lt;/h4&gt;
-&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/articles/git-repos.png" class="img-fluid" alt="picture not found" title="The repositories layout description" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/articles/git-repos.png" class="img-fluid" alt="picture not found" title="The repositories layout description" /&gt;&lt;/p&gt;
 &lt;p&gt;Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next step.&lt;/p&gt;
 &lt;p&gt;The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command.&lt;/p&gt;
 &lt;h4 id="deploying-to-the-github-pages-for-free"&gt;Deploying to the GitHub pages for free&lt;/h4&gt;
@@ -237,7 +237,7 @@ MzYyMTJdfQ==
 			<guid>https://mikeska.tech/posts/comic1-your-method-to-override</guid>
 			<pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/articles/git-repos/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwNjQwNDI3MCwtNjk1NTU3MTM4XX0=
 --&gt;

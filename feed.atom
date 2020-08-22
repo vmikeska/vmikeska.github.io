@@ -4,7 +4,7 @@
 	<id>https://mikeska.tech/</id>
 	<title>Mike's programming and architecture blog</title>
 	<rights>2020</rights>
-	<updated>2020-04-13T20:23:18Z</updated>
+	<updated>2020-08-22T19:21:54Z</updated>
 	<subtitle>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</subtitle>
 	<entry>
 		<link href="https://mikeska.tech/posts/vsc-plugin-switch-local-remote-packages-npm" />
@@ -169,7 +169,7 @@ You can move your content to any other platform with ease.&lt;/p&gt;
 &lt;p&gt;When offline, I use &lt;a href="https://code.visualstudio.com"&gt;Visual Studio Code&lt;/a&gt; IDE.
 But you don't really have to stick to any of these, don't hesitate to make your own research in this field.&lt;/p&gt;
 &lt;h4 id="setting-up-your-repository-on-github"&gt;Setting up your repository on GitHub&lt;/h4&gt;
-&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/articles/git-repos.png" class="img-fluid" alt="picture not found" title="The repositories layout description" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/articles/git-repos.png" class="img-fluid" alt="picture not found" title="The repositories layout description" /&gt;&lt;/p&gt;
 &lt;p&gt;Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next step.&lt;/p&gt;
 &lt;p&gt;The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command.&lt;/p&gt;
 &lt;h4 id="deploying-to-the-github-pages-for-free"&gt;Deploying to the GitHub pages for free&lt;/h4&gt;
@@ -235,7 +235,7 @@ MzYyMTJdfQ==
 		<title>Comic 1 Your method to override</title>
 		<updated>2018-09-30T00:00:00Z</updated>
 		<content>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://mikeska.tech/assets/images/articles/git-repos/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
 &lt;!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIwNjQwNDI3MCwtNjk1NTU3MTM4XX0=
 --&gt;
