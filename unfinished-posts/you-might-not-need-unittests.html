@@ -16,8 +16,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
-        <title>static site generator</title>
-        <meta name="description" content="" />
+        <title>You Might Not Need Unittests</title>
+        <meta name="description" content="This article doesn&#x27;t explaint what unit test actually is, but rather explains it&#x27;s place and gives you some hints whether you should really use it or no." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
 
         <link type="application/rss+xml" rel="alternate" title="Mike&#x27;s programming and architecture blog" href="/feed.rss" />
@@ -39,11 +39,11 @@
         <meta name="msapplication-tooltip" content="Mike&#x27;s programming and architecture blog" />
         <meta name="msapplication-starturl" content="/" />
 
-        <meta property="og:title" content="static site generator" />
+        <meta property="og:title" content="You Might Not Need Unittests" />
         <meta property="og:image" content="https://mikeska.tech/assets/images/titles/">
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://mikeska.tech/tags/static-site-generator" />
-        <meta property="og:description" content="" />
+        <meta property="og:url" content="https://mikeska.tech/unfinished-posts/you-might-not-need-unittests" />
+        <meta property="og:description" content="This article doesn&#x27;t explaint what unit test actually is, but rather explains it&#x27;s place and gives you some hints whether you should really use it or no." />
         
 
         <script src="/assets/js/jquery.min.js"></script>
@@ -105,7 +105,7 @@
                                 <div class="row">
                                         <div class="col-md-12">
 <div class="site-heading">
-    <h1>static site generator</h1>
+    <h1>You Might Not Need Unittests</h1>
 </div>                                            </div>
                                 </div>
                         </div>
@@ -115,48 +115,23 @@
                 <div class="container">
                         <div class="row">
                                 <div id="content" class="col-md-12">
-                                        <div class="container-sm-height">
-    <div class="row row-sm-height">
-        <div class="col-sm-8 right-border col-sm-height">
-            
-        <div class="post-list">
-            <a href="/posts/create-programming-blog-without-database-cms-static-site-generator">
-                <h3 class="post-title">Create a programming blog without any database or CMS by a static site generator</h3>
-            </a>
-            <p class="post-meta">Posted on Tuesday, September 10, 2019</p>      
-        </div>   
+                                        <p>This article doesn't explaint what unit test actually is, but rather explains it's place and gives you some hints whether you should really use it or no.</p>
+<p>The unit test were invented already a bit earlier, but became really popular in the late ’90s and early 2000s.
+Ehm, popular ? More than that actually... at around year 2010, it became real obsession and managers and some of the developers terribly overkilled the entire thing.</p>
+<p>Suddenly there were no application able to perform without UT and it even begin to affect the architecture of the applications itself. 100% coverage buzzword were spreading across the industry. People began to cover not only interfaces, but for example each method separately. And this all, as we already know at this era, is wrong.</p>
+<p>TDD, the test driven development became most buzzwordy of all of this and all the interviews usually turned to this topic at early beginnings.</p>
+<p>So this was enough of the history, let's begin with the scenarios where you might not need unit tests for.
+To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project,  when written well, later in your project you will benefit from this dependency. You just have to find a right moment to start.</p>
+<p>The right moment is definitelly not right at the beginning of the application, when architecture is shaping. You will we modifying your interfaces a lot, every day, maybe every hour. This is really not a good time for unit tests, every time you make a change to your code/interface, there is usually a need to change the unit tests as well. Sometimes they are needed, but definitely do just hi-level interfaces coverage, like Web API method or a root metods you are calling there. This is for you then basically the point where you execute and debug your code, it's not yet an UT.
+Later then, when the interfaces are stable and stability is actually the current topic, then yes, go and increase your coverage.</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzY1NDA0NjIsNjQxMDAyNjExLC0xMj
+A0NTIyOTYwLDk3MDgxODQ2OCwyMDQ4MjQ5NDAwLDE2OTc4MDEy
+MDcsLTExOTE2NTI1NDQsNzU5NjI2ODI0LC0xMzU1ODYyNDkxLC
+0xODU4MjY4OTg2LC0yMzQ1NTUyMDYsLTcyNTEyMTA1LDQ5Nzgx
+ODgxMCwtMjA4ODc0NjYxMl19
+-->
 
-
-            <nav>
-                <ul class="pager">
-                    <li class="previous">                
-                    </li>
-                    <li class="next">
-                    </li>
-                </ul>
-            </nav>
-            <hr class="visible-xs-block" />
-        </div>
-		
-        <div class="col-sm-4 col-sm-height">
-                <a role="button" href="/tags/css" class="btn btn-default btn-xs">css (1)</a>
-                <a role="button" href="/tags/flexbox" class="btn btn-default btn-xs">flexbox (1)</a>
-                <a role="button" href="/tags/dev-and-debug" class="btn btn-default btn-xs">dev and debug (1)</a>
-                <a role="button" href="/tags/angular" class="btn btn-default btn-xs">angular (1)</a>
-                <a role="button" href="/tags/static-site-generator" class="btn btn-primary btn-xs">static site generator (1)</a>
-                <a role="button" href="/tags/markdown" class="btn btn-default btn-xs">markdown (1)</a>
-                <a role="button" href="/tags/wyam" class="btn btn-default btn-xs">wyam (1)</a>
-                <a role="button" href="/tags/free-hosting" class="btn btn-default btn-xs">free hosting (1)</a>
-                <a role="button" href="/tags/playground" class="btn btn-default btn-xs">playground (1)</a>
-                <a role="button" href="/tags/visual-studio-code" class="btn btn-default btn-xs">visual studio code (1)</a>
-                <a role="button" href="/tags/github-pages" class="btn btn-default btn-xs">github pages (1)</a>
-                <a role="button" href="/tags/no-database" class="btn btn-default btn-xs">no database (1)</a>
-                <a role="button" href="/tags/no-cms" class="btn btn-default btn-xs">no cms (1)</a>
-                <a role="button" href="/tags/plugin" class="btn btn-default btn-xs">plugin (1)</a>
-                <a role="button" href="/tags/npm" class="btn btn-default btn-xs">npm (1)</a>
-        </div>
-    </div>
-</div>
                                 </div>
                         </div>
                 </div>
